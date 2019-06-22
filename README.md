@@ -2,7 +2,7 @@
 
 http://docs.jinkan.org/docs/flask/
 
-![Screenshot](watchlist/TIM图片20190622211623.png)
+![Screenshot](watchlist/demo01.png)
 
 ## Installation
 
